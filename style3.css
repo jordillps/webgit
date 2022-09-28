@@ -20,3 +20,7 @@ h6{
 p{
   color: green;
 }
+
+p span{
+  color: yellow;
+}
